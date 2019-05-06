@@ -1,0 +1,13 @@
+.SideBar {
+  display: flex;
+  flex-direction: column;
+}
+
+.MenuItem {
+  padding: 1em;
+  cursor: pointer;
+}
+
+.Menuitem :hover {
+  background: blue;
+}

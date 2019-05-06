@@ -6,11 +6,21 @@
     "@types/jest": "24.0.12",
     "@types/node": "12.0.0",
     "@types/react": "16.8.16",
+    "@types/react-bootstrap": "^0.32.17",
     "@types/react-dom": "16.8.4",
+    "@types/react-sidebar": "^3.0.0",
+    "@types/recharts": "^1.1.16",
+    "@types/underscore": "^1.8.14",
+    "axios": "^0.18.0",
     "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0",
-    "typescript": "3.4.5"
+    "react-sidebar": "^3.0.2",
+    "recharts": "^1.5.0",
+    "semantic-ui-react": "^0.86.0",
+    "typescript": "3.4.5",
+    "underscore": "^1.9.1"
   },
   "scripts": {
     "start": "react-scripts start",
